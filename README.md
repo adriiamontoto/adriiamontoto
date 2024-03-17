@@ -76,11 +76,3 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-%23FF9900.svg?style=flat&logo=langchain&logoColor=white)
 <br><br><br>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adriiamontoto&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adriiamontoto&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriiamontoto&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<br><br><br>
